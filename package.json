@@ -1,0 +1,26 @@
+{
+  "name": "naija-districts-constituencies",
+  "version": "1.0.0",
+  "description": "list of all districts and constituencies in nigeria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chilaka Chinedu <greatchinex@gmail.com> (https://github.com/Greatchinex)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fuse.js": "^3.4.5"
+  },
+  "keywords": [
+    "\"Nigeria",
+    "Nigeria",
+    "Constituency",
+    "Nigerian",
+    "Districts",
+    "Nigerian",
+    "Constituencies",
+    "District\""
+  ]
+}
