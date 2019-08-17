@@ -9,9 +9,11 @@
   "author": "Chilaka Chinedu <greatchinex@gmail.com> (https://github.com/Greatchinex)",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
     "fuse.js": "^3.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Greatchinex/naija-districts-constituencies"
   },
   "keywords": [
     "\"Nigeria",

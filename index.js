@@ -11,7 +11,7 @@ exports.searchDistricts = input => {
     // Options To perform Search(see fuse Documentation: https://fusejs.io/#live-demo)
     let options = {
       shouldSort: true,
-      threshold: 0.8,
+      threshold: 0.5,
       location: 0,
       distance: 100,
       maxPatternLength: 32,
@@ -36,7 +36,7 @@ exports.searchConstituency = input => {
     // Options To perform Search(see fuse Documentation: https://fusejs.io/#live-demo)
     let options = {
       shouldSort: true,
-      threshold: 0.8,
+      threshold: 0.2,
       location: 0,
       distance: 100,
       maxPatternLength: 32,
