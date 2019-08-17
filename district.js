@@ -1,4 +1,4 @@
-const disitricts = [
+const districts = [
   {
     state: "Abia",
     districts: ["Abia North", "Abia South", "Abia Central"]
@@ -152,3 +152,5 @@ const disitricts = [
     districts: ["FCT"]
   }
 ];
+
+module.exports = districts;
